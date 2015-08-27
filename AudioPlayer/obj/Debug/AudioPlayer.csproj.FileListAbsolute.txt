@@ -1,0 +1,11 @@
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.Cache
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\jeff\Desktop\台大資訊訓練班254\作業\ACS254CSharp\MVC\MVC\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
