@@ -5,5 +5,5 @@
 * __使用工具__  
 Windows Forms C#
 * __如何使用__  
-    * 下載zip，解壓縮。
+    * 下載 zip 檔，解壓縮。
     * 執行 AudioPlayer.exe ( 檔案位置: Design_pattern_MVC-master \ AudioPlayer \ bin \ Debug \ AudioPlayer.exe )
